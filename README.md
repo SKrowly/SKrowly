@@ -1,18 +1,12 @@
 ## Hi there 👋
 
--✨My Name is Kimberly Ruiz Ochoa (AKA: SKrowly)✨
+-✨My Name is Kimberly Ruiz Ochoa (AKA: SKrowly)✨  😄 Pronouns: She/Her
 -I am currently an undergrad senior student persuing my Bachelor's in Computer Science with a track specialization in Artificial Intelligence at the University of Louisville.
 
--📫 How to reach me:
--[LinkedIn](www.linkedin.com/in/kimberly-ruiz-ochoa)
--[Handshake](https://app.joinhandshake.com/profiles/xdqhjh)
--[Email me](mailto:kimberly290800@hotmail.com)
-
--😄 Pronouns: She/Her
-
-  
-
-
+📫 How to reach me:
+[LinkedIn](www.linkedin.com/in/kimberly-ruiz-ochoa)  
+[Handshake](https://app.joinhandshake.com/profiles/xdqhjh)  
+[Email me](mailto:kimberly290800@hotmail.com)  
 
 <!--
 **SKrowly/SKrowly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
