@@ -6,7 +6,7 @@ I am currently an undergrad senior student persuing my Bachelor's in Computer Sc
 📫 How to reach me:
 [LinkedIn](www.linkedin.com/in/kimberly-ruiz-ochoa)
 [Handshake](https://app.joinhandshake.com/profiles/xdqhjh)
-[Email me](mailto: kimberly290800@hotmail.com)
+[Email me](mailto:kimberly290800@hotmail.com)
 
 😄 Pronouns: She/Her
 
