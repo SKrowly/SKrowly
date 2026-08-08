@@ -5,7 +5,7 @@
 I am currently an undergrad senior student pursuing my Bachelor's in Computer Science with a track specialization in Artificial Intelligence at the University of Louisville.
 
 📫 How to reach me:  
-[LinkedIn](www.linkedin.com/in/kimberly-ruiz-ochoa)  
+[LinkedIn](https://www.linkedin.com/in/kimberly-ruiz-ochoa/)  
 [Handshake](https://app.joinhandshake.com/profiles/xdqhjh)  
 [Email me](mailto:kimberly290800@hotmail.com)  
 # Hi there 👋
