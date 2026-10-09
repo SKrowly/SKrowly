@@ -1,13 +1,3 @@
-## Hi there 👋
-
-✨My Name is Kimberly Ruiz Ochoa (AKA: SKrowly)✨  
-😄 Pronouns: She/Her  
-I am currently an undergrad senior student pursuing my Bachelor's in Computer Science with a track specialization in Artificial Intelligence at the University of Louisville.
-
-📫 How to reach me:  
-[LinkedIn](https://www.linkedin.com/in/kimberly-ruiz-ochoa/)  
-[Handshake](https://app.joinhandshake.com/profiles/xdqhjh)  
-[Email me](mailto:kimberly290800@hotmail.com)  
 # Hi there 👋
 
 ✨ My Name is Kimberly Ruiz Ochoa ✨  
@@ -20,6 +10,12 @@ Previously completed a Bachelor of Arts in Psychology from
 Texas Woman's University (2022) — a background that informs 
 how I think about building AI systems and technology that 
 people actually want to use
+
+
+📫 How to reach me:  
+[LinkedIn](https://www.linkedin.com/in/kimberly-ruiz-ochoa/)  
+[Handshake](https://app.joinhandshake.com/profiles/xdqhjh)  
+[Email me](mailto:kimberlyruizoc@hotmail.com)  
 
 ---
 
