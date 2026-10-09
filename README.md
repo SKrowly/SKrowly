@@ -19,6 +19,11 @@ people actually want to use
 
 ---
 
+## 🛠️ Tech Stack
+Python • Microsoft Azure • SQL • JavaScript • TypeScript • Unity • Git • GitHub • Android Studio • Xcode • C++ • C • Java
+
+---
+
 ## 🚀 Projects
 
 | Project | Description | Links |
@@ -27,13 +32,15 @@ people actually want to use
 | 🍴 Tasty Notes | Full-stack recipe sharing web app with authentication and social features | 🔒 Private Repo |
 | 🎮 The Forest Strikes Back | FPS survival game built in Unity | [Play on itch.io](https://skrowly.itch.io/the-forest-strikes-back) · [GitHub](https://github.com/SKrowly/The-Forest-Strikes-Back) |
 | 🕹️ Video Game Chatbot | Python recommendation chatbot with 14,000+ game entries | [GitHub](https://github.com/MichaelHGoff/CSE---532-Video-Game-Chatbox-) |
+|🤖 Weather Chrome Extension | Chrome extension that shows current weather with visual images | In Progress..|
 
 ---
 
-## 🛠️ Tech Stack
-Python • Microsoft Azure • SQL • JavaScript • TypeScript • Unity • Git • GitHub • Android Studio • Xcode • C++ • C • Java
+## Certificates
 
----
+| Certificate Name | Description | Issued By | Links |
+|---|---|---|---|
+|SCLA Honor Society Membership | Certificate of Membership | The Society for Collegiate Leadership & Achievement | [Credentials](https://app.thescla.org/web/public/credential/01M3Y52KE6A612MHPQPPMJK60K)|
 
 <!--
 **SKrowly/SKrowly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
